@@ -1,0 +1,19 @@
+{
+    "id": 9898, 
+    "category": 
+        { 
+            "id": 1, 
+            "name": "Köpek" 
+        }, 
+    "name": "Pamuk",
+    "photoUrls": [
+        "https://dxcgs7v732qty.cloudfront.net/kopekler.jpg"
+    ],
+    "tags": [
+        { 
+            "id": 1, 
+            "name": "Sibirya Kurdu" 
+        }
+    ], 
+    "status": "satılık değil"
+}
